@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Expense Tracker CLI
+Expense Tracker CLI!
 --------------------
 A simple command-line tool to log expenses, view history, and generate
 monthly spending summaries with charts.
